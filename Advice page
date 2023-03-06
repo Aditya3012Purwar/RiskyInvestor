@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylesadvisepage.css">
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li> <a href="#">Home</a> </li>
+        <li> <a href="#">About Us</a> </li>
+        <li> <a href="#">Services</a> </li>
+        <li> <a href="#">Help</a> </li>
+      </ul>
+      <button type="button" name="login">login</button>
+    </nav>
+  </header>
+
+  <div class='Background-image'>
+    <div class='Navigator'>
+      <div class="fade-in-image">
+
+          <h1 class="hh1">Risky Investor</h1>
+          <div class="hh">
+              <div class="advices">
+                <h1>Today's Important Advice</h1>
+                <h2>Stock price of adani group will fall after the hindenburg report.</h2>
+                <h3>Adani Group</h3>
+                <h3 class="advisor">Aditya Purwar</h3>
+                <h3 class="date">21st January 2023</h3>
+              </div>
+
+              <div class="advices">
+                <h2>Tata motor's stock price will rise after the successfull deal between tata motor and mahindra.</h2>
+                <h3>Tata Motors</h3>
+                <h3 class="advisor">Sammit Bathla</h3>
+                <h3 class="date">25th May 2021</h3>
+              </div>
+
+              <div class="advices">
+                <h2>Elon Musk is selling tesla shares to buy twitter.</h2>
+                <h3>Tesla</h3>
+                <h3 class="advisor">Parth Agrawal</h3>
+                <h3 class="date">25th May 2021</h3>
+        <!-- <div class="hh"> -->
+        <!-- <button class="btn1" type="button" name="getstart">Get Started</button> -->
+          <!-- <h1>Today's Important Advice</h1>
+          <h2>Stock price of adani group will fall after the hindenburg report.</h2>
+          <h3>Aditya Purwar</h3>
+          <h3>21st January 2023</h3>
+          <h2>Tata motor's stock price will rise after the successfull deal between tata motor and mahindra.</h2>
+          <h3>Sammit Bathla</h3>
+          <h3>25th May 2021</h3> -->
+          <!-- <img src="images/h1.png" height="650px" style="width:100%"> -->
+        </div>
+        <!-- <h3>"Market makes its money on activity, you make your money on inactivity."</h3> -->
+        <!-- </div> -->
+
+      </div>
+    </div>
+  </div>
+
+
+    <!-- </div> -->
+
+
+  <!-- </div> -->
+
+
+<!-- </body> -->
+</html>
